@@ -28,19 +28,13 @@ My research interest includes AI hardware accelerator and side-channel security.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- `[J] IEEE TVLSI` **Le Wu**, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in: IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- `[J] IEEE TCAD` **Le Wu**, Liji Wu, Xiangmin Zhang, ["Catch the Star: Weight Recovery Attack using Side-Channel Star Map against DNN Accelerator,"] (Major Revision and Resubmitted)
+  
+- `[C] IEEE HOST` **Le Wu**, Liji Wu, ZhingWei Ba, Xiangmin Zhang, ["An Input Recovery Side-Channel Attack on DNN Accelerator with 3D Power Surface,"] (Submitted)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- `[C] IEEE ICICM` Zhiwei Ba, Liji Wu, Jing Hu, **Le Wu**, Xiangmin Zhang, ["Multi-Head Attention Hardware Implementation and Side-Channel Security Analysis for Transformer,"](https://ieeexplore.ieee.org/document/10814141) in 2024 9th International Conference on Integrated Circuits and Microsystems (ICICM), doi: 10.1109/ICICM63644.2024.10814141. 
 
 # 🎖 Honors and Awards
 - *2024* First-Class Comprehensive Scholarship of Tsinghua University. 
