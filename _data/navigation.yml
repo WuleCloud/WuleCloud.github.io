@@ -18,5 +18,5 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  # - title: "Internships"
-  #   url: "/#-internships"
+  - title: "Internships"
+    url: "/#-internships"
