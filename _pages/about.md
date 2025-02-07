@@ -34,7 +34,9 @@ My research interest includes AI hardware accelerator and side-channel security.
 
 - `[J] IEEE TVLSI` **Le Wu**, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in: IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
 
-- `[C] IEEE ICICM` Zhiwei Ba, Liji Wu, Jing Hu, **Le Wu**, Xiangmin Zhang, ["Multi-Head Attention Hardware Implementation and Side-Channel Security Analysis for Transformer,"](https://ieeexplore.ieee.org/document/10814141) in 2024 9th International Conference on Integrated Circuits and Microsystems (ICICM), doi: 10.1109/ICICM63644.2024.10814141. 
+- `[C] IEEE ICICM` Zhiwei Ba, Liji Wu, Jing Hu, **Le Wu**, Xiangmin Zhang, ["Multi-Head Attention Hardware Implementation and Side-Channel Security Analysis for Transformer,"](https://ieeexplore.ieee.org/document/10814141) in 2024 9th International Conference on Integrated Circuits and Microsystems (ICICM), doi: 10.1109/ICICM63644.2024.10814141.
+
+- `[J] 微电子学与计算机` **乌勒**， 刘武， 洪亮，["基于SONOS型嵌入式flash存储器的扰动失效测试算法研究,"](https://ieeexplore.ieee.org/document/10814141) 微电子学与计算机, 2021, 38(05), doi: 10.19304/j.cnki.issn1000-7180.2021.05.002. 
 
 # 🎖 Honors and Awards
 - *2024* First-Class Comprehensive Scholarship of Tsinghua University. 
