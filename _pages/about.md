@@ -48,8 +48,9 @@ My research interest includes AI hardware accelerator and side-channel security.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, the Ph.D. degree, electronic science and technology, Tsinghua University.
+- *2018.09 - 2021.07*, the M.E. degree, integrated circuit engineering, Shanghai Jiao Tong University.
+- *2013.09 - 2017.07*, the B.Sc. degree, electronic science and technology, Shanghai University of Electric Power. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
