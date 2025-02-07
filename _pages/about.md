@@ -24,8 +24,7 @@ My research interest includes AI hardware accelerator and side-channel security.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 11
+- *2024.11*: &nbsp;🎉🎉 I have been awarded the First-Class Comprehensive Scholarship of Tsinghua University. 
 
 # 📝 Publications 
 
