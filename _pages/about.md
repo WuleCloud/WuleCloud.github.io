@@ -50,7 +50,7 @@ My research interest includes AI hardware accelerator and side-channel security.
 - *2018.09 - 2021.07*, the M.E. degree, integrated circuit engineering, Shanghai Jiao Tong University, Shanghai, China.
 - *2013.09 - 2017.07*, the B.Sc. degree, electronic science and technology, Shanghai University of Electric Power, Shanghai, China. 
 
-# 💬 Invited Talks
+# 🛠️ Projects
 - 
 
 # 💻 Internships
