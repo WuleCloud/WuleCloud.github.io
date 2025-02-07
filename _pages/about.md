@@ -28,7 +28,11 @@ My research interest includes AI hardware accelerator and side-channel security.
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I have been awarded the First-Class Comprehensive Scholarship of Tsinghua University. 
+- *2025.03*: &nbsp;📢 Start new semester.
+
+- *2024.11*: &nbsp;🎉🎉 I have been awarded the First-Class Comprehensive Scholarship of Tsinghua University.
+
+- *2024.03*: &nbsp;🧑‍🏫 Teaching assistant of the Analog Electronic Technology.
 
 # 📝 Publications 
 
