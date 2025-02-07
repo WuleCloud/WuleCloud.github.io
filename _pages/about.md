@@ -36,7 +36,7 @@ My research interest includes AI hardware accelerator and side-channel security.
 
 - `[C] IEEE ICICM` Zhiwei Ba, Liji Wu, Jing Hu, **Le Wu**, Xiangmin Zhang, ["Multi-Head Attention Hardware Implementation and Side-Channel Security Analysis for Transformer,"](https://ieeexplore.ieee.org/document/10814141) in 2024 9th International Conference on Integrated Circuits and Microsystems (ICICM), doi: 10.1109/ICICM63644.2024.10814141.
 
-- `[J] 微电子学与计算机` **乌勒**， 刘武， 洪亮，["基于SONOS型嵌入式flash存储器的扰动失效测试算法研究,"](https://ieeexplore.ieee.org/document/10814141) 微电子学与计算机, 2021, 38(05), doi: 10.19304/j.cnki.issn1000-7180.2021.05.002. 
+- `[J] 微电子学与计算机` **乌勒**， 刘武， 洪亮，["基于SONOS型嵌入式flash存储器的扰动失效测试算法研究,"](https://kns.cnki.net/kcms2/article/abstract?v=JtACmXrF273jwcjBDv1I92Xd1thQe9fe1aeOnSir1m9c8G3OWmjCKEbK3IlHyklWeX2cCkuH8l7FYd6a64rVHvzYeP8r--oto5z5m593wFXpbuuRagUV_MKs4kIfhLLRabBkfY5Nu1RmuYj3T0FIDFaCxEE0cF_3G4ebnd-loZLzP864xlXmBBmcx37RlAHi&uniplatform=NZKPT&language=CHS) 微电子学与计算机, 2021, 38(05), doi: 10.19304/j.cnki.issn1000-7180.2021.05.002. 
 
 # 🎖 Honors and Awards
 - *2024* First-Class Comprehensive Scholarship of Tsinghua University. 
