@@ -52,7 +52,8 @@ My research interest includes AI hardware accelerator and side-channel security.
   
 <span class='anchor' id='-projects'></span>
 # 🛠️ Projects
-- 
+- *2019.09 - 2021.03* RISC-V based SONOS Flash testchip, tape-out with HLMC 55nm.
+- *2022.09 - 2024.09* Research on AI Hardware Security and Side-Channel Attack Technology, Independent Research Project, School of Integrated Circuits, Tsinghua University
 
 # 💻 Internships
 - 
