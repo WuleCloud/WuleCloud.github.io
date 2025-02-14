@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I received the B.Sc. degree in electronic science and technology from Shanghai University of Electric Power in 2017 and the M.Sc. degree in integrated circuit engineering from Shanghai Jiao
-Tong University in 2021. I am currently pursuing the Ph.D. degree in electronic science and technology with Tsinghua University. My research interests include AI hardware security, side-channel attack, and machine learning security.
-
-My research interest includes AI hardware accelerator and side-channel security. I have published some papers at the IEEE conferences and journals.
+Tong University in 2021. I am currently pursuing the Ph.D. degree in electronic science and technology with Tsinghua University. My research interest includes AI hardware accelerator and side-channel security. I have published some papers at the IEEE conferences and journals.
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">This page has been visited <span id="busuanzi_value_site_pv"></span> times.</span>
