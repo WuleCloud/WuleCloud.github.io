@@ -61,4 +61,4 @@ My research interest includes AI hardware accelerator and side-channel security.
 
 
 # 💻 Internships
-- *2019.09 - 2021.03* Digital IC Design Engineer, Design Service Department, Shanghai Huali Microelectronics Co.
+- *2019.09 - 2021.03* Digital IC Design Engineer, Design Service Department (DS), Shanghai Huali Microelectronics Co.
