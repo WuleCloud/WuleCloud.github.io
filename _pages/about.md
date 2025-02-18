@@ -26,7 +26,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉 Our paper on attacking the DNN accelerator via 3D power surface has been accepted by [HOST 2025](http://www.hostsymposium.org/)! See you in San Jose!
-- 
+  
 - *2025.02*: &nbsp;📢 Start new semester.
 
 - *2024.11*: &nbsp;🎉 I have been awarded the First-Class Comprehensive Scholarship of Tsinghua University.
