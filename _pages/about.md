@@ -25,7 +25,9 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2025.03*: &nbsp;📢 Start new semester.
+- *2025.02*: &nbsp;🎉 Our paper on attacking the DNN accelerator via 3D power surface has been accepted by [HOST 2025](http://www.hostsymposium.org/)! See you in San Jose!
+- 
+- *2025.02*: &nbsp;📢 Start new semester.
 
 - *2024.11*: &nbsp;🎉 I have been awarded the First-Class Comprehensive Scholarship of Tsinghua University.
 
@@ -33,7 +35,9 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 
 # 📝 Publications 
 
-- `[J] IEEE TVLSI` **Le Wu**, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in: IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
+- `[C] IEEE HOST` **Le Wu**, Liji Wu, Zhiwei Ba, Xiangmin Zhang, ["An Input Recovery Side-Channel Attack on DNN Accelerator with 3D Power Surface,"] in 2025 IEEE International Workshop on Hardware-Oriented Security and Trust (HOST).
+
+- `[J] IEEE TVLSI` **Le Wu**, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
 
 - `[C] IEEE ICICM` Zhiwei Ba, Liji Wu, Jing Hu, **Le Wu**, Xiangmin Zhang, ["Multi-Head Attention Hardware Implementation and Side-Channel Security Analysis for Transformer,"](https://ieeexplore.ieee.org/document/10814141) in 2024 9th International Conference on Integrated Circuits and Microsystems (ICICM), doi: 10.1109/ICICM63644.2024.10814141.
 
