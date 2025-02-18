@@ -35,7 +35,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 
 # 📝 Publications 
 
-- `[C] IEEE HOST` **Le Wu**, Liji Wu, Zhiwei Ba, Xiangmin Zhang, ["An Input Recovery Side-Channel Attack on DNN Accelerator with 3D Power Surface,"] in 2025 IEEE International Workshop on Hardware-Oriented Security and Trust (HOST).
+- `[C] IEEE HOST` **Le Wu**, Liji Wu, Zhiwei Ba, Xiangmin Zhang, "An Input Recovery Side-Channel Attack on DNN Accelerator with 3D Power Surface," in 2025 IEEE International Workshop on Hardware-Oriented Security and Trust (HOST).
 
 - `[J] IEEE TVLSI` **Le Wu**, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
 
