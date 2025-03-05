@@ -25,6 +25,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉 Our paper on attacking the DNN accelerator via side-channel star map has been accepted by TCAD!
+
 - *2025.02*: &nbsp;🎉 Our paper on attacking the DNN accelerator via 3D power surface has been accepted by [HOST 2025](http://www.hostsymposium.org/)! See you in San Jose!
   
 - *2025.02*: &nbsp;📢 Start new semester.
@@ -34,6 +36,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 - *2024.03*: &nbsp;🧑‍🏫 Teaching assistant of the Analog Electronic Technology.
 
 # 📝 Publications 
+- `[J] IEEE TCAD` **Le Wu**, Liji Wu, Xiangmin Zhang, "Catch the Star: Weight Recovery Attack using Side-Channel Star Map against DNN Accelerator," in IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTEMS (TCAD).
 
 - `[C] IEEE HOST` **Le Wu**, Liji Wu, Zhiwei Ba, Xiangmin Zhang, "An Input Recovery Side-Channel Attack on DNN Accelerator with 3D Power Surface," in 2025 IEEE International Workshop on Hardware-Oriented Security and Trust (HOST).
 
