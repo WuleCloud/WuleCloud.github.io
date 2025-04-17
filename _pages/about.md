@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span> 
 
 I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic science and technology from Shanghai University of Electric Power in 2017 and the M.Sc. degree in integrated circuit engineering from Shanghai Jiao Tong University in 2021. I am currently pursuing the Ph.D. degree in electronic science and technology with Tsinghua University. My research interest includes AI hardware accelerator and side-channel security. I have published some papers at the IEEE conferences and journals.
 
