@@ -25,6 +25,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉 Our research project focusing on side-channel attacks against edge hardware for large AI models has been successfully approved!
+
 - *2025.03*: &nbsp;🎉 Our paper on attacking the DNN systolic array via side-channel star map has been published on IEEE TCAD!
 
 - *2025.02*: &nbsp;🎉 Our paper on attacking the DNN accelerator via 3D power surface has been accepted by [HOST 2025](http://www.hostsymposium.org/)! See you in San Jose!
@@ -60,7 +62,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
   
 <span class='anchor' id='-projects'></span>
 # 🛠️ Projects
-- *2022.09 - 2024.09* Research on AI Hardware Security and Side-Channel Attack Technology, Independent Research Project, School of Integrated Circuits, Tsinghua University
+- *2025.07 - now* Research on AI-assisted side-channel attack technology for edge-side large model hardware, the Initiative Scientific Research Program, School of Integrated Circuits, Tsinghua University
+- *2022.09 - 2024.09* Research on AI Hardware Security and Side-Channel Attack Technology, the Initiative Scientific Research Program, School of Integrated Circuits, Tsinghua University
 - *2019.09 - 2021.03* RISC-V based SONOS Flash testchip, tape-out with HLMC 55nm.
 
 
