@@ -38,7 +38,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 - *2024.03*: &nbsp;🧑‍🏫 Teaching assistant of the Analog Electronic Technology.
 
 # 📝 Publications 
-- `[J] IEEE TCAD` **Le Wu**, Liji Wu, Xiangmin Zhang, ["Catch the Star: Weight Recovery Attack using Side-Channel Star Map against DNN Accelerator,"](https://ieeexplore.ieee.org/document/10926892) in IEEE TRANSACTIONS ON COMPUTER-AIDED DESIGN OF INTEGRATED CIRCUITS AND SYSTEMS (TCAD), Early Access, doi: 10.1109/TCAD.2025.3551652.
+- `[J] IEEE TCAD` **Le Wu**, Liji Wu, Xiangmin Zhang, ["Catch the Star: Weight Recovery Attack using Side-Channel Star Map against DNN Accelerator,"](https://ieeexplore.ieee.org/document/10926892) in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), Early Access, doi: 10.1109/TCAD.2025.3551652.
 
 - `[C] IEEE HOST` **Le Wu**, Liji Wu, Zhiwei Ba, Xiangmin Zhang, "An Input Recovery Side-Channel Attack on DNN Accelerator with Three-Dimensional Power Surface," in 2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST).
 
