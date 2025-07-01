@@ -25,7 +25,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉 Our research project focusing on side-channel attacks against edge hardware for large AI models has been successfully approved!
+- *2025.06*: &nbsp;🎉 Our research project focusing on SCAs against edge hardware for large AI models has been successfully approved!
 
 - *2025.03*: &nbsp;🎉 Our paper on attacking the DNN systolic array via side-channel star map has been published on IEEE TCAD!
 
