@@ -25,6 +25,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉 Two papers on NN and Transformer hardware implementations and SCA analysis were accepted by [ICICM 2025](https://icicm.net/index.html)!
+
 - *2025.06*: &nbsp;🎉 Our research project focusing on SCAs against edge hardware for large AI models has been successfully approved!
 
 - *2025.03*: &nbsp;🎉 Our paper on attacking the DNN systolic array via side-channel star map has been published on IEEE TCAD!
