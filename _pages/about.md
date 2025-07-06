@@ -29,6 +29,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 
 - *2025.06*: &nbsp;🎉 Our research project focusing on SCAs against edge hardware for large AI models has been successfully approved!
 
+- *2025.05*: &nbsp;🎉 I passed the doctoral qualifying examination and officially became a PhD candidate!!!
+
 - *2025.03*: &nbsp;🎉 Our paper on attacking the DNN systolic array via side-channel star map has been published on IEEE TCAD!
 
 - *2025.02*: &nbsp;🎉 Our paper on attacking the DNN accelerator via 3D power surface has been accepted by [HOST 2025](http://www.hostsymposium.org/)! See you in San Jose!
