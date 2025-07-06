@@ -42,9 +42,9 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 - *2024.03*: &nbsp;🧑‍🏫 Teaching assistant of the Analog Electronic Technology.
 
 # 📝 Publications 
-- `[C] IEEE ICICM` Runquan Shao, Liji Wu, Jing Hu, **Le Wu**, and Xiangmin Zhang, "Hardware Design and Side-Channel Security Analysis on the Key Computational Block for YOLOv11," in 2025 10th International Conference on Integrated Circuits and Microsystems (ICICM 2025).
+- `[C] IEEE ICICM` Runquan Shao, Liji Wu, Jing Hu, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "Hardware Design and Side-Channel Security Analysis on the Key Computational Block for YOLOv11," in 2025 10th International Conference on Integrated Circuits and Microsystems (ICICM 2025).
 
-- `[C] IEEE ICICM` Wentao Wang, Liji Wu, Jing Hu, **Le Wu**, and Xiangmin Zhang, "Hardware Implementation and Side-Channel Security Analysis for High-Precision AI Tansformer Encoder
+- `[C] IEEE ICICM` Wentao Wang, Liji Wu, Jing Hu, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "Hardware Implementation and Side-Channel Security Analysis for High-Precision AI Tansformer Encoder
 ," in 2025 10th International Conference on Integrated Circuits and Microsystems (ICICM 2025).
  
 - `[J] IEEE TCAD` **Le Wu**, Liji Wu, Xiangmin Zhang, ["Catch the Star: Weight Recovery Attack using Side-Channel Star Map against DNN Accelerator,"](https://ieeexplore.ieee.org/document/10926892) in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), Early Access, doi: 10.1109/TCAD.2025.3551652.
