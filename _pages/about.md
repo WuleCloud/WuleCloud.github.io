@@ -25,6 +25,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉 One poster on extracting neural network model outputs using the independently developed CrackNuts board has been accepted for presentation at CHES 2025. See you in Kuala Lumpur!
+
 - *2025.07*: &nbsp;🎉 Two papers on NN and Transformer hardware implementations and SCA analysis were accepted by [ICICM 2025](https://icicm.net/index.html)!
 
 - *2025.06*: &nbsp;🎉 Our research project focusing on SCAs against edge hardware for large AI models has been successfully approved!
@@ -42,6 +44,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 - *2024.03*: &nbsp;🧑‍🏫 Teaching assistant of the Analog Electronic Technology.
 
 # 📝 Publications 
+- `[C] IACR CHES` <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Yuyang Pan, and Jian Wu, "Cracking the AI Nut: From Output Extraction to Shuffling Countermeasure (Poster)" in 2025 IACR Cryptographic Hardware and Embedded Systems (CHES 2025).
+
 - `[C] IEEE ICICM` Runquan Shao, Liji Wu, Jing Hu, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "Hardware Design and Side-Channel Security Analysis on the Key Computational Block for YOLOv11," in 2025 10th International Conference on Integrated Circuits and Microsystems (ICICM 2025).
 
 - `[C] IEEE ICICM` Wentao Wang, Liji Wu, Jing Hu, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "Hardware Implementation and Side-Channel Security Analysis for High-Precision AI Tansformer Encoder
