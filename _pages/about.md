@@ -25,7 +25,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉 One poster on extracting neural network model outputs using the independently developed CrackNuts board has been accepted for presentation at [CHES 2025](https://ches.iacr.org/2025/). See you in Kuala Lumpur!
+- *2025.08*: &nbsp;🎉 One poster on extracting neural network model outputs using the independently developed [CrackNuts](https://cracknuts.io/en/) board has been accepted for presentation at [CHES 2025](https://ches.iacr.org/2025/). See you in Kuala Lumpur!
 
 - *2025.08*: &nbsp;📢 Start new semester.
 
