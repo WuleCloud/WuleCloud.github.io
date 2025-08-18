@@ -55,6 +55,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 
 - `[J] IEEE TVLSI`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
 
+- `[J] Microelectronics & Computer`  <span style="color:blue">**Le Wu**</span>， Wu Liu， Liang Hong，["Investigation on disturbance characteristics and test algorithm of SONOS embedded flash memory,"](https://kns.cnki.net/kcms2/article/abstract?v=JtACmXrF273jwcjBDv1I92Xd1thQe9fe1aeOnSir1m9c8G3OWmjCKEbK3IlHyklWeX2cCkuH8l7FYd6a64rVHvzYeP8r--oto5z5m593wFXpbuuRagUV_MKs4kIfhLLRabBkfY5Nu1RmuYj3T0FIDFaCxEE0cF_3G4ebnd-loZLzP864xlXmBBmcx37RlAHi&uniplatform=NZKPT&language=CHS) Microelectronics & Computer, 2021, 38(05), doi: 10.19304/j.cnki.issn1000-7180.2021.05.002. (In Chinese)
+
 - `[C] IEEE ASICON` Zhenkun Li, Liji Wu, Yi Yang, Tianling Ren, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "A 16×16 High-Utilization Systolic Array Hardware Accelerator for Long-Sequence Flash-Attention Computation in Transformer" in 2025 IEEE 16th International Conference on ASIC (ASICON 2025).
 
 - `[C] IEEE ICICM` Runquan Shao, Liji Wu, Jing Hu, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "Hardware Design and Side-Channel Security Analysis on the Key Computational Block for YOLOv11," in 2025 10th International Conference on Integrated Circuits and Microsystems (ICICM 2025).
@@ -68,7 +70,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 
 - `[C] IEEE ASID` Munkhbaatar Chinbat, Liji Wu, Xiangmin Zhang, Altantsooj Batsukh, Yifan Yang,  <span style="color:blue">**Le Wu**</span>, [Evaluating Side-Channel Attack Vulnerabilities in Post-Quantum CRYSTALS-Kyber Hardware Based on Simple Power Analysis](https://ieeexplore.ieee.org/document/10426450) in IEEE 17th International Conference on Anti-counterfeiting, Security, and Identification (ASID 2023), 2023, pp. 46-49, doi: 10.1109/ASID60355.2023.10426450.
 
-- `[J] Microelectronics & Computer`  <span style="color:blue">**Le Wu**</span>， Wu Liu， Liang Hong，["Investigation on disturbance characteristics and test algorithm of SONOS embedded flash memory,"](https://kns.cnki.net/kcms2/article/abstract?v=JtACmXrF273jwcjBDv1I92Xd1thQe9fe1aeOnSir1m9c8G3OWmjCKEbK3IlHyklWeX2cCkuH8l7FYd6a64rVHvzYeP8r--oto5z5m593wFXpbuuRagUV_MKs4kIfhLLRabBkfY5Nu1RmuYj3T0FIDFaCxEE0cF_3G4ebnd-loZLzP864xlXmBBmcx37RlAHi&uniplatform=NZKPT&language=CHS) Microelectronics & Computer, 2021, 38(05), doi: 10.19304/j.cnki.issn1000-7180.2021.05.002. (In Chinese)
+
 
 # 🎖 Honors and Awards
 - *2024* First-Class Comprehensive Scholarship of Tsinghua University. 
