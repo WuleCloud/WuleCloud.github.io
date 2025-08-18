@@ -46,6 +46,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 - *2024.03*: &nbsp;🧑‍🏫 Teaching assistant of the Analog Electronic Technology.
 
 # 📝 Publications 
+- `[C] IEEE ASICON` Zhenkun Li, Liji Wu, Yi Yang, Tianling Ren, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "A 16×16 High-Utilization Systolic Array Hardware Accelerator for Long-Sequence Flash-Attention Computation in Transformer" in 2025 IEEE 16th International Conference on ASIC (ASICON 2025).
+
 - `[C] IACR CHES` <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Yuyang Pan, and Jian Wu, "Cracking the AI Nut: From Output Extraction to Shuffling Countermeasure (Poster)" in 2025 IACR Cryptographic Hardware and Embedded Systems (CHES 2025).
 
 - `[C] IEEE ICICM` Runquan Shao, Liji Wu, Jing Hu, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "Hardware Design and Side-Channel Security Analysis on the Key Computational Block for YOLOv11," in 2025 10th International Conference on Integrated Circuits and Microsystems (ICICM 2025).
