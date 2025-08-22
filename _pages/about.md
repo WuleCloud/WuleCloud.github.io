@@ -79,9 +79,11 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 - `[C] IEEE ICICM` Wentao Wang, Liji Wu, Jing Hu, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "Hardware Implementation and Side-Channel Security Analysis for High-Precision AI Tansformer Encoder
 
 ## 2024
+- ⭐️ `[J] IEEE TVLSI`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
+  
 - `[C] IEEE ICICM` Zhiwei Ba, Liji Wu, Jing Hu,  <span style="color:blue">**Le Wu**</span>, Xiangmin Zhang, ["Multi-Head Attention Hardware Implementation and Side-Channel Security Analysis for Transformer,"](https://ieeexplore.ieee.org/document/10814141) in 2024 9th International Conference on Integrated Circuits and Microsystems (ICICM 2024), doi: 10.1109/ICICM63644.2024.10814141.
 
-- ⭐️ `[J] IEEE TVLSI`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
+
   
 ## 2023
 - `[C] IEEE ASID` Yan Liu, Liji Wu, Zhenhui Zhang, Xiangmin Zhang, Jing Zhou, Yifan Yang,  <span style="color:blue">**Le Wu**</span>, [Hardware Design of PQC Classic McEliece Finite Field Operations and Encryption Module](https://ieeexplore.ieee.org/document/10426507) in IEEE 17th International Conference on Anti-counterfeiting, Security, and Identification (ASID 2023), 2023, pp. 67-71, doi: 10.1109/ASID60355.2023.10426507.
