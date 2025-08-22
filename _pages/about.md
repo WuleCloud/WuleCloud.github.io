@@ -54,6 +54,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
    
   - `[J] IEEE TCAD`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, ["Catch the Star: Weight Recovery Attack using Side-Channel Star Map against DNN Accelerator,"](https://ieeexplore.ieee.org/document/10926892) in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), Early Access, doi: 10.1109/TCAD.2025.3551652.
 
+## 2025
+### Journal
 - `[C] IEEE HOST`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Zhiwei Ba, Xiangmin Zhang, ["An Input Recovery Side-Channel Attack on DNN Accelerator with Three-Dimensional Power Surface,"](https://ieeexplore.ieee.org/document/11050042) in 2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2025), San Jose, CA, USA, 2025, pp. 1-11, doi: 10.1109/HOST64725.2025.11050042.
 
 - `[J] IEEE TVLSI`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
