@@ -81,7 +81,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 - `[C] IEEE ASID` Munkhbaatar Chinbat, Liji Wu, Xiangmin Zhang, Altantsooj Batsukh, Yifan Yang, <span style="color:blue">**Le Wu**</span>, ["Evaluating Side-Channel Attack Vulnerabilities in Post-Quantum CRYSTALS-Kyber Hardware Based on Simple Power Analysis,"](https://ieeexplore.ieee.org/document/10426450) ASID 2023, pp. 46-49.
 
 ## 2021
-- `[J] Microelectronics & Computer` <span style="color:blue">**Le Wu**</span>, Wu Liu, Liang Hong, ["Investigation on disturbance characteristics and test algorithm of SONOS embedded flash memory,"](https://kns.cnki.net/kcms2/article/abstract?v=...) Microelectronics & Computer, 2021, 38(05).
+- ⭐️ `[J] Microelectronics & Computer` <span style="color:blue">**Le Wu**</span>, Wu Liu, Liang Hong, ["Investigation on disturbance characteristics and test algorithm of SONOS embedded flash memory,"](https://kns.cnki.net/kcms2/article/abstract?v=...) Microelectronics & Computer, 2021, 38(05).
 
 
 # 🎖 Honors and Awards
