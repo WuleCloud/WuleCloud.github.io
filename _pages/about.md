@@ -67,7 +67,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 ## 2025
 - ⭐️ `[C] IACR CHES` <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Yuyang Pan, and Jian Wu, "Cracking the AI Nut: From Output Extraction to Shuffling Countermeasure (Poster)" in 2025 IACR Cryptographic Hardware and Embedded Systems (CHES 2025).
   
-- ⭐️ `[J] IEEE TCAD`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, ["Catch the Star: Weight Recovery Attack using Side-Channel Star Map against DNN Accelerator,"](https://ieeexplore.ieee.org/document/10926892) in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), Early Access, doi: 10.1109/TCAD.2025.3551652.
+- ⭐️ `[J] IEEE TCAD`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, ["Catch the Star: Weight Recovery Attack using Side-Channel Star Map against DNN Accelerator,"](https://ieeexplore.ieee.org/document/10926892) in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), vol. 44, no. 10, pp. 3697-3709, Oct. 2025, doi: 10.1109/TCAD.2025.3551652.
 
 - ⭐️ `[C] IEEE HOST`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Zhiwei Ba, Xiangmin Zhang, ["An Input Recovery Side-Channel Attack on DNN Accelerator with Three-Dimensional Power Surface,"](https://ieeexplore.ieee.org/document/11050042) in 2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2025), San Jose, CA, USA, 2025, pp. 1-11, doi: 10.1109/HOST64725.2025.11050042.
 
