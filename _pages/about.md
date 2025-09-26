@@ -77,6 +77,8 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
   
 - `[C] IEEE ICICM` Wentao Wang, Liji Wu, Jing Hu, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "Hardware Implementation and Side-Channel Security Analysis for High-Precision AI Tansformer Encoder," in 2025 10th International Conference on Integrated Circuits and Microsystems (ICICM 2025).
 
+- `[C] IEEE SMC-IoT` Yi Wu, Yuyang Pan, Jie Wang, Lihong Nai, <span style="color:blue">**Le Wu**</span>, Ruizhe Li, Yifan Yang, Ying Tan, Hong Yu, Liji Wu, Xiangmin Zhang, Liangsen Yu, and Yanzhao Li, "Modeling and Application of High-Stability, High-Performance Multi-Data Transceiver Mechanisms: A Case Study on Optimizing Signal Acquisition System Performance for Hardware Security," in the 4th International Conference on Sensing, Measurement, Communication and Internet of Things Technologies (SMC-IoT 2025)
+
 ## 2024
 - ⭐️ `[J] IEEE TVLSI`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Munkhbaatar Chinbat, ["Dual-Rail Precharge Logic-Based Side-Channel Countermeasure for DNN Systolic Array,"](https://ieeexplore.ieee.org/document/10506805) in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, Volume: 32, Issue: 9, September 2024, doi: 10.1109/TVLSI.2024.3387986.
   
