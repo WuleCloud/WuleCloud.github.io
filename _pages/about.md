@@ -65,7 +65,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 # 📝 Publications
 
 ## 2025
-- ⭐️ `[C] IACR CHES` <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Yuyang Pan, and Jian Wu, "Cracking the AI Nut: From Output Extraction to Shuffling Countermeasure (Poster)" in 2025 IACR Cryptographic Hardware and Embedded Systems (CHES 2025).
+- ⭐️ `[C] IACR CHES` <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Yuyang Pan, and Jian Wu, ["Cracking the AI Nut: From Output Extraction to Shuffling Countermeasure,"](https://ches.iacr.org/2025/acceptedposters.php) poster presentation, in 2025 IACR Cryptographic Hardware and Embedded Systems (CHES 2025).
   
 - ⭐️ `[J] IEEE TCAD`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, ["Catch the Star: Weight Recovery Attack using Side-Channel Star Map against DNN Accelerator,"](https://ieeexplore.ieee.org/document/10926892) in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD), vol. 44, no. 10, pp. 3697-3709, Oct. 2025, doi: 10.1109/TCAD.2025.3551652.
 
