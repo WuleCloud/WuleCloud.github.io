@@ -73,7 +73,7 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 
 - ⭐️ `[C] IEEE HOST`  <span style="color:blue">**Le Wu**</span>, Liji Wu, Zhiwei Ba, Xiangmin Zhang, ["An Input Recovery Side-Channel Attack on DNN Accelerator with Three-Dimensional Power Surface,"](https://ieeexplore.ieee.org/document/11050042) in 2025 IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2025), San Jose, CA, USA, 2025, pp. 1-11, doi: 10.1109/HOST64725.2025.11050042.
 
-- `[C] IEEE ASICON` Zhenkun Li, Liji Wu, Yi Yang, Tianling Ren, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, "A 16×16 High-Utilization Systolic Array Hardware Accelerator for Long-Sequence Flash-Attention Computation in Transformer" in 2025 IEEE 16th International Conference on ASIC (ASICON 2025).
+- `[C] IEEE ASICON` Zhenkun Li, Liji Wu, Yi Yang, Tianling Ren, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, ["A 16×16 High-Utilization Systolic Array Hardware Accelerator for Long-Sequence Flash-Attention Computation in Transformer"](https://ieeexplore.ieee.org/document/11326298) in 2025 IEEE 16th International Conference on ASIC (ASICON 2025).
 
 - `[C] IEEE ICICM` Runquan Shao, Liji Wu, Jing Hu, <span style="color:blue">**Le Wu**</span>, and Xiangmin Zhang, ["Hardware Design and Side-Channel Security Analysis on the Key Computational Block for YOLOv11,"](https://ieeexplore.ieee.org/document/11316014) in 2025 10th International Conference on Integrated Circuits and Microsystems (ICICM 2025).
   
