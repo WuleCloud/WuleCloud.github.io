@@ -96,7 +96,9 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
 
 
 # 🎖 Honors and Awards
-- *2024* First-Class Comprehensive Scholarship of Tsinghua University. 
+- *2025* Research Excellence Scholarship, School of Integrated Circuits, Tsinghua University.
+- *2024* First-Class Comprehensive Scholarship of Tsinghua University.
+
 
 # 📖 Educations
 - *2022.09 - now*, the Ph.D. degree, electronic science and technology, Tsinghua University (THU), Beijing, China.
@@ -105,10 +107,11 @@ I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic s
   
 <span class='anchor' id='-projects'></span>
 # 🛠️ Projects
-- *2025.07 - now* Research on AI-assisted side-channel attack technology for edge-side large model hardware, the Initiative Scientific Research Program, School of Integrated Circuits, Tsinghua University
-- *2022.09 - 2024.09* Research on AI Hardware Security and Side-Channel Attack Technology, the Initiative Scientific Research Program, School of Integrated Circuits, Tsinghua University
+- *2025.07 - now* Research on AI-assisted side-channel attack technology for edge-side large model hardware, the Initiative Scientific Research Program, School of Integrated Circuits, Tsinghua University.
+- *2022.09 - 2024.09* Research on AI Hardware Security and Side-Channel Attack Technology, the Initiative Scientific Research Program, School of Integrated Circuits, Tsinghua University.
 - *2019.09 - 2021.03* RISC-V based SONOS Flash testchip, tape-out with HLMC 55nm.
 
 
 # 💻 Internships
+- *2025.11 - now*  Hardware Security Engineer, the Beijing Pairui Micro Technology Co.
 - *2019.09 - 2021.03* Digital IC Design Engineer, Design Service Department (DS), Shanghai Huali Microelectronics Co.
