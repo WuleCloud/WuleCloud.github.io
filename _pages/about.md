@@ -46,8 +46,7 @@ fetch("{{ url }}")
 <div style="margin-top: 30px;">
   <h3>Visitor Globe</h3>
 
-  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=9uW9SvcnzAqBlygXww9unnhvwkPL3_dGAuJ3HP2xb6w"></script>
-
+  <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=9uW9SvcnzAqBlygXww9unnhvwkPL3_dGAuJ3HP2xb6w"></script>
 </div>
 
 <span class='anchor' id='-news'></span>
