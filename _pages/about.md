@@ -46,7 +46,7 @@ fetch("{{ url }}")
 <div style="margin-top: 30px;">
   <h3>Visitor Globe</h3>
 
-  <!-- 在这里粘贴 RevolverMaps 生成的 3D globe script -->
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=9uW9SvcnzAqBlygXww9unnhvwkPL3_dGAuJ3HP2xb6w"></script>
 
 </div>
 
