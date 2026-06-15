@@ -141,6 +141,6 @@ fetch("{{ url }}")
   <h3 style="font-size: 16px; margin-bottom: 8px;">Visitor Globe</h3>
 
   <div style="width: 180px; height: 180px; margin: 0 auto; overflow: hidden;">
-    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=9uW9SvcnzAqBlygXww9unnhvwkPL3_dGAuJ3HP2xb6w"></script>
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8FdwDdFxmZa2cer-E3qm8NHGWBrO_NrBRACGvXwWscw&cl=ffffff&w=a"></script>
   </div>
 </div>
