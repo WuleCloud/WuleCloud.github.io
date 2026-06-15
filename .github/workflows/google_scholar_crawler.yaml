@@ -2,32 +2,58 @@ name: Get Citation Data
 
 on:
   workflow_dispatch:
-  page_build:
   schedule:
     - cron: '0 8 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install and crawl
+      - name: Get Google Scholar citations
         run: |
-          echo "GOOGLE_SCHOLAR_ID is set: ${GOOGLE_SCHOLAR_ID:+yes}"
-          cd ./google_scholar_crawler
-          pip3 install -r requirements.txt
-          echo "Start crawling Google Scholar..."
-          python3 main.py
-          echo "Crawler finished."
-          cd ./results
-          ls -lh
+          mkdir -p google-scholar-stats
+
+          echo "Fetching Google Scholar profile..."
+          html=$(curl -L -A "Mozilla/5.0" "https://scholar.google.com/citations?user=${GOOGLE_SCHOLAR_ID}&hl=en")
+
+          echo "$html" > scholar.html
+
+          citations=$(echo "$html" | grep -oP '<td class="gsc_rsb_std">\K[0-9]+' | head -n 1)
+
+          if [ -z "$citations" ]; then
+            echo "Failed to parse citations"
+            exit 1
+          fi
+
+          echo "Citations: $citations"
+
+          cat > google-scholar-stats/gs_data_shieldsio.json <<EOF
+          {
+            "schemaVersion": 1,
+            "label": "citations",
+            "message": "$citations",
+            "color": "blue"
+          }
+          EOF
+
+      - name: Push citation data
+        run: |
+          cd google-scholar-stats
           git init
           git config --local user.name "${GITHUB_ACTOR}"
           git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-          git add *.json
+          git add gs_data_shieldsio.json
           git commit -m "Updated Citation Data"
-          git push "${remote_repo}" HEAD:google-scholar-stats --force
+          git branch -M google-scholar-stats
+          git remote add origin "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git push -f origin google-scholar-stats
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
