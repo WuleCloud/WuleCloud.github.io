@@ -35,8 +35,20 @@ fetch("{{ url }}")
   });
 </script> -->
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">This page has been visited <span id="busuanzi_value_site_pv"></span> times.</span>
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+<p>
+  <span id="busuanzi_container_site_pv">
+    This page has been visited <span id="busuanzi_value_site_pv"></span> times.
+  </span>
+</p>
+
+<div style="margin-top: 30px;">
+  <h3>Visitor Globe</h3>
+
+  <!-- 在这里粘贴 RevolverMaps 生成的 3D globe script -->
+
+</div>
 
 <span class='anchor' id='-news'></span>
 
