@@ -43,12 +43,6 @@ fetch("{{ url }}")
   </span>
 </p>
 
-<div style="margin-top: 30px;">
-  <h3>Visitor Globe</h3>
-
-  <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=9uW9SvcnzAqBlygXww9unnhvwkPL3_dGAuJ3HP2xb6w"></script>
-</div>
-
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
@@ -142,3 +136,11 @@ fetch("{{ url }}")
 # 💻 Internships
 - *2025.11 - now*  Hardware Security Engineer, the Beijing Pairui Micro Technology Co.
 - *2019.09 - 2021.03* Digital IC Design Engineer, Design Service Department (DS), Shanghai Huali Microelectronics Co.
+
+<div style="margin-top: 50px; text-align: center;">
+  <h3 style="font-size: 16px; margin-bottom: 8px;">Visitor Globe</h3>
+
+  <div style="width: 180px; height: 180px; margin: 0 auto; overflow: hidden;">
+    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=9uW9SvcnzAqBlygXww9unnhvwkPL3_dGAuJ3HP2xb6w"></script>
+  </div>
+</div>
