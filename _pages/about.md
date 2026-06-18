@@ -49,9 +49,8 @@ fetch("{{ url }}")
 
 # 🔬 Research Interests
 
+- hardware security
 - Side-channel analysis and countermeasures for AI hardware
-- Secure DNN and Transformer accelerators
-- Physical attacks on edge AI systems
 - Hardware/software co-design for trustworthy AI systems
 
 # 🔥 News
