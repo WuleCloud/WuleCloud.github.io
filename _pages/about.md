@@ -64,7 +64,7 @@ fetch("{{ url }}")
 - *2025.08*: &nbsp;🎉 One poster on extracting neural network model outputs using the independently developed [CrackNuts](https://cracknuts.io/en/) board has been accepted for presentation at [CHES 2025](https://ches.iacr.org/2025/). See you in Kuala Lumpur!
 
 <details markdown="1">
-<summary><strong>Older news</strong></summary>
+<summary style="color: #1f6feb; cursor: pointer;"><strong>Older news</strong></summary>
 
 - *2025.08*: &nbsp;🎉 Our paper on a self-attention hardware accelerator was accepted by [ASICON 2025](http://www.asicon.org/).
 
