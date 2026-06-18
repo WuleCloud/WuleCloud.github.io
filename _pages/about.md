@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-I was born in Inner Mongolia, China. I received the B.Sc. degree in electronic science and technology from Shanghai University of Electric Power in 2017 and the M.Sc. degree in integrated circuit engineering from Shanghai Jiao Tong University in 2021. I am currently pursuing the Ph.D. degree in electronic science and technology with Tsinghua University. My research interest includes AI hardware accelerator and side-channel security. 
+I am a Ph.D. candidate in electronic science and technology at Tsinghua University. My research focuses on **AI hardware security**, **side-channel analysis**, and **secure DNN/Transformer accelerators**. I am particularly interested in understanding and improving the security of edge AI hardware under practical physical attack models.
+
+Before joining Tsinghua University, I received the M.Sc. degree in integrated circuit engineering from Shanghai Jiao Tong University in 2021 and the B.Sc. degree in electronic science and technology from Shanghai University of Electric Power in 2017.
 
 <!-- <p>
   <strong>Google Scholar Citations:</strong>
@@ -45,20 +47,27 @@ fetch("{{ url }}")
 
 <span class='anchor' id='-news'></span>
 
+# 🔬 Research Interests
+
+- Side-channel analysis and countermeasures for AI hardware
+- Secure DNN and Transformer accelerators
+- Physical attacks on edge AI systems
+- Hardware/software co-design for trustworthy AI systems
+
 # 🔥 News
 
 - *2026.06*: &nbsp;🎉 One of my papers has been accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers* (TCAS-I).
 
 - *2026.04*: &nbsp;🎉 One of my papers has been accepted for presentation as a Work-in-Progress (WIP) poster at DAC 2026. See you in Long Beach, California! [[Link](https://63dac.conference-program.com/presentation/?id=WIP3275&sess=sess307)]
 
+- *2025.12*: &nbsp;🎉 I attended the [AsianHOST 2025](https://www.asianhost.org/2025/) PhD Forum organized by IEEE CEDA and presented both an oral and a poster presentation.
+
+- *2025.08*: &nbsp;🎉 One poster on extracting neural network model outputs using the independently developed [CrackNuts](https://cracknuts.io/en/) board has been accepted for presentation at [CHES 2025](https://ches.iacr.org/2025/). See you in Kuala Lumpur!
+
 <details>
 <summary><strong>Older news</strong></summary>
 
 <br>
-
-- *2025.12*: &nbsp;🎉 I attended the [AsianHOST 2025](https://www.asianhost.org/2025/) PhD Forum organized by IEEE CEDA and presented both an oral and a poster presentation.
-
-- *2025.08*: &nbsp;🎉 One poster on extracting neural network model outputs using the independently developed [CrackNuts](https://cracknuts.io/en/) board has been accepted for presentation at [CHES 2025](https://ches.iacr.org/2025/). See you in Kuala Lumpur!
 
 - *2025.08*: &nbsp;🎉 Our paper on a self-attention hardware accelerator was accepted by [ASICON 2025](http://www.asicon.org/).
 
@@ -98,6 +107,11 @@ fetch("{{ url }}")
 - `[C] IEEE ASID` Munkhbaatar Chinbat, Liji Wu, Xiangmin Zhang, Altantsooj Batsukh, Yifan Yang,  <span style="color:blue">**Le Wu**</span>, [Evaluating Side-Channel Attack Vulnerabilities in Post-Quantum CRYSTALS-Kyber Hardware Based on Simple Power Analysis](https://ieeexplore.ieee.org/document/10426450) in IEEE 17th International Conference on Anti-counterfeiting, Security, and Identification (ASID 2023), 2023, pp. 46-49, doi: 10.1109/ASID60355.2023.10426450.
 -->
 # 📝 Publications
+## 2026
+
+- ⭐️ `[J] IEEE TCAS-I` **Le Wu**, ..., "Title," accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers*, 2026.
+
+- `[C] DAC WIP` **Le Wu**, ..., ["The Last Line of Defense in DNN Inference: Argmax Security Under Combined Power Side-Channel and Fault Injection Attack,"](https://63dac.conference-program.com/presentation/?id=WIP3275&sess=sess307) accepted for presentation as a Work-in-Progress poster at *DAC 2026*, Long Beach, CA, USA, 2026.
 
 ## 2025
 - ⭐️ `[C] IACR CHES` <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Yuyang Pan, and Jian Wu, ["Cracking the AI Nut: From Output Extraction to Shuffling Countermeasure,"](https://ches.iacr.org/2025/acceptedposters.php) poster presentation, in 2025 IACR Cryptographic Hardware and Embedded Systems (CHES 2025).
