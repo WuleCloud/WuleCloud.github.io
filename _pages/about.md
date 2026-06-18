@@ -46,9 +46,9 @@ fetch("{{ url }}")
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2025.12*:  🎉 One of my papers has been accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers* (TCAS-I).
+- *2026.6*:  🎉 One of my papers has been accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers* (TCAS-I).
 
-- *2026.6*: &nbsp;🎉 One of my papers has been accepted for presentation as a Work-in-Progress (WIP) poster at DAC 2026. See you in Long Beach, California! [[Link](https://63dac.conference-program.com/presentation/?id=WIP3275&sess=sess307)]
+- *2026.4*: &nbsp;🎉 One of my papers has been accepted for presentation as a Work-in-Progress (WIP) poster at DAC 2026. See you in Long Beach, California! [[Link](https://63dac.conference-program.com/presentation/?id=WIP3275&sess=sess307)]
 
 - *2025.12*: &nbsp;🎉 I attended the [AsianHOST 2025](https://www.asianhost.org/2025/) PhD Forum organized by IEEE CEDA and presented both an oral and a poster presentation.
 
