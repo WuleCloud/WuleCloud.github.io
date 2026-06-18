@@ -46,9 +46,13 @@ fetch("{{ url }}")
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2026.6*:  🎉 One of my papers has been accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers* (TCAS-I).
+
+- *2026.6*: &nbsp;🎉 One of my papers has been accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers* (TCAS-I).
 
 - *2026.4*: &nbsp;🎉 One of my papers has been accepted for presentation as a Work-in-Progress (WIP) poster at DAC 2026. See you in Long Beach, California! [[Link](https://63dac.conference-program.com/presentation/?id=WIP3275&sess=sess307)]
+
+<details>
+<summary><strong>Older news</strong></summary>
 
 - *2025.12*: &nbsp;🎉 I attended the [AsianHOST 2025](https://www.asianhost.org/2025/) PhD Forum organized by IEEE CEDA and presented both an oral and a poster presentation.
 
@@ -64,15 +68,17 @@ fetch("{{ url }}")
 
 - *2025.05*: &nbsp;🎉 I passed the doctoral qualifying examination and officially became a PhD candidate!!!
 
-- *2025.03*: &nbsp;🎉 One paper on attacking the DNN systolic array via side-channel star map has been published on IEEE TCAD!
+- *2025.03*: &nbsp;🎉 One paper on attacking the DNN systolic array via side-channel star map has been published in *IEEE TCAD*!
 
-- *2025.02*: &nbsp;🎉 One paper on attacking the DNN accelerator via 3D power surface has been accepted by [HOST 2025](http://www.hostsymposium.org/)! See you in San Jose!
-  
+- *2025.02*: &nbsp;🎉 One paper on attacking the DNN accelerator via 3D power surface has been accepted by [HOST 2025](http://www.hostsymposium.org/)! See you in San Jose!
+
 - *2025.02*: &nbsp;📢 Start new semester.
 
 - *2024.11*: &nbsp;🎉 I have been awarded the First-Class Comprehensive Scholarship of Tsinghua University.
 
-- *2024.03*: &nbsp;🧑‍🏫 Teaching assistant of the Analog Electronic Technology.
+- *2024.03*: &nbsp;🧑‍🏫 Teaching assistant for Analog Electronic Technology.
+
+</details>
 
 <!--
 # 📝 Publications
