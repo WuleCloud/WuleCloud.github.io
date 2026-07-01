@@ -91,9 +91,9 @@ fetch("{{ url }}")
 # 📝 Publications
 ## 2026
 
-- ⭐️ `[J] IEEE TCAS-I` **Le Wu**, ..., "Title," accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers*, 2026.
+- ⭐️ `[J] IEEE TCAS-I` **Le Wu**, Liji Wu, Xiangmin Zhang, ["BoMa-MAC: A Boolean-Masked Multiply-Accumulate Unit for Secure DNN Accelerators,"](https://ieeexplore.ieee.org/document/11589220) accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers*, 2026.
 
-- `[C] DAC 2026` **Le Wu**, ..., ["The Last Line of Defense in DNN Inference: Argmax Security Under Combined Power Side-Channel and Fault Injection Attack,"](https://63dac.conference-program.com/presentation/?id=WIP3275&sess=sess307) accepted for presentation as a Work-in-Progress poster at *DAC 2026*, Long Beach, CA, USA, 2026.
+- `[C] DAC 2026` **Le Wu**, Liji Wu, Yuyang pan, Xiangmin Zhang, ["The Last Line of Defense in DNN Inference: Argmax Security Under Combined Power Side-Channel and Fault Injection Attack,"](https://63dac.conference-program.com/presentation/?id=WIP3275&sess=sess307) accepted for presentation as a Work-in-Progress poster at *DAC 2026*, Long Beach, CA, USA, 2026.
 
 ## 2025
 - ⭐️ `[C] IACR CHES` <span style="color:blue">**Le Wu**</span>, Liji Wu, Xiangmin Zhang, Yuyang Pan, and Jian Wu, ["Cracking the AI Nut: From Output Extraction to Shuffling Countermeasure,"](https://ches.iacr.org/2025/acceptedposters.php) poster presentation, in 2025 IACR Cryptographic Hardware and Embedded Systems (CHES 2025).
