@@ -121,7 +121,7 @@ fetch("{{ url }}")
 - `[C] IEEE ASID` Munkhbaatar Chinbat, Liji Wu, Xiangmin Zhang, Altantsooj Batsukh, Yifan Yang,  <span style="color:blue">**Le Wu**</span>, [Evaluating Side-Channel Attack Vulnerabilities in Post-Quantum CRYSTALS-Kyber Hardware Based on Simple Power Analysis](https://ieeexplore.ieee.org/document/10426450) in *IEEE 17th International Conference on Anti-counterfeiting, Security, and Identification (ASID 2023)*, 2023, pp. 46-49, doi: 10.1109/ASID60355.2023.10426450.
 
 ## 2021
-- ⭐️ `[J] Microelectronics & Computer`  <span style="color:blue">**Le Wu**</span>， Wu Liu， Liang Hong，["Investigation on disturbance characteristics and test algorithm of SONOS embedded flash memory,"](https://mc.spacejournal.cn/article/2021/5) *Microelectronics & Computer*, 2021, 38(05), doi: 10.19304/j.cnki.issn1000-7180.2021.05.002. (In Chinese)
+- ⭐️ `[J] Microelectronics & Computer`  <span style="color:blue">**Le Wu**</span>， Wu Liu， Liang Hong，["Investigation on disturbance characteristics and test algorithm of SONOS embedded flash memory,"](https://mc.spacejournal.cn/article/id/e78e3105-5a3d-495d-bf50-48c6a9509e4c) *Microelectronics & Computer*, 2021, 38(05), doi: 10.19304/j.cnki.issn1000-7180.2021.05.002. (In Chinese)
 
 
 # 🎖 Honors and Awards
