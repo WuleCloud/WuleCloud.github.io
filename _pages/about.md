@@ -90,7 +90,7 @@ fetch("{{ url }}")
 
 # 📝 Publications
 ## 2026
-- `[Archive] ` **Le Wu**, Liji Wu, Xiangmin Zhang, ["Shuffled-ArgMax: Securing ArgMax Decisions Against Side-Channel-Guided Fault Injection in Edge-AI IoT Devices,"](https://eprint.iacr.org/2026/1433) in *Cryptology ePrint Archive*, 2026, Paper 2026/1433.
+- `[Archive] ` **Le Wu**, Liji Wu, Yuyang Pan, Xiangmin Zhang and Jian Wu, ["Shuffled-ArgMax: Securing ArgMax Decisions Against Side-Channel-Guided Fault Injection in Edge-AI IoT Devices,"](https://eprint.iacr.org/2026/1433) in *Cryptology ePrint Archive*, 2026, Paper 2026/1433.
 
 - ⭐️ `[J] IEEE TCAS-I` **Le Wu**, Liji Wu, Xiangmin Zhang, ["BoMa-MAC: A Boolean-Masked Multiply-Accumulate Unit for Secure DNN Accelerators,"](https://ieeexplore.ieee.org/document/11589220) in *IEEE Transactions on Circuits and Systems I: Regular Papers*, 2026, doi: 10.1109/TCSI.2026.3705485.
 
