@@ -55,6 +55,8 @@ fetch("{{ url }}")
 
 # 🔥 News
 
+- *2026.09*: &nbsp;🎉 I attended the [CCSC 2026](https://conf.ccss.org.cn/ccsc2026/news/81.html) PhD Forum and presented an oral presentation.
+
 - *2026.06*: &nbsp;🎉 One of my papers has been accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers* (TCAS-I).
 
 - *2026.04*: &nbsp;🎉 Our work has been accepted for presentation as a WIP poster at [DAC 2026](https://dac.com/2026). See you in Long Beach, California!
