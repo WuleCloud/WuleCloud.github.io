@@ -130,6 +130,7 @@ fetch("{{ url }}")
 
 
 # 🎖 Honors and Awards
+- *2026* First-Class Comprehensive Scholarship of Tsinghua University.
 - *2025* Research Excellence Scholarship, School of Integrated Circuits, Tsinghua University.
 - *2024* First-Class Comprehensive Scholarship of Tsinghua University.
 
