@@ -151,10 +151,10 @@ fetch("{{ url }}")
 - *2025.11 - now*  Hardware Security Engineer, the Beijing Pairui Micro Technology Co.
 - *2019.09 - 2021.03* Digital IC Design Engineer, Design Service Department (DS), Shanghai Huali Microelectronics Co.
 
-<div style="margin-top: 50px; text-align: center;">
+<!-- <div style="margin-top: 50px; text-align: center;">
   <h3 style="font-size: 16px; margin-bottom: 8px;">Visitor Globe</h3>
 
   <div style="width: 180px; height: 180px; margin: 0 auto; overflow: hidden;">
     <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8FdwDdFxmZa2cer-E3qm8NHGWBrO_NrBRACGvXwWscw&cl=ffffff&w=a"></script>
   </div>
-</div>
+</div> -->
