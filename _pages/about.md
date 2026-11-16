@@ -37,7 +37,7 @@ fetch("{{ url }}")
   });
 </script> -->
 
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <p>
   <span id="busuanzi_container_site_pv">
@@ -45,7 +45,7 @@ fetch("{{ url }}")
   </span>
 </p>
 
-<span class='anchor' id='-news'></span>
+<span class='anchor' id='-news'></span> -->
 
 # 🔬 Research Interests
 
